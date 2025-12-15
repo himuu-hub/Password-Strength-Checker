@@ -1,6 +1,8 @@
 # Password Strength Checker
 
 A beginner-friendly web tool that checks password strength in real time and helps users create secure passwords.
+## Live Demo 
+https://himuu-hub.github.io/Password-Strength-Checker/
 
 ## Problem
 Many users use weak passwords, making their accounts vulnerable to hacking.
